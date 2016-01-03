@@ -1,0 +1,10 @@
+Remember that a file
+can have blank lines
+like the one below:
+
+A blank line:
+
+is read as a String
+of length 0
+
+by Scanner

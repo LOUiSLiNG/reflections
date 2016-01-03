@@ -1,0 +1,6 @@
+This line has odd length because it is 57 characters long
+This line is even because it is 40 long.
+
+another even (68 characters) along with the blank line above with 0.
+another odd line here
+and one final even
